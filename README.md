@@ -3,8 +3,9 @@ In control theory, robust control is an approach to controller design that expli
 
 ## Repository Objectives
 The material includes an introduction to Sliding Mode Control as a simple approach to robust control - Sliding surface and controller design formulation for a nonlinear system described by an n^{th} order differential equation 
-Please refer to (https://github.rcac.purdue.edu/ByungcheolMinGroup/robustCtrl/blob/master/robustControl_nonlinearSystems_tmina.pdf) for a detailed theoretical overview of the Sliding Mode Controller design process. A summary of the process is presented in
-SIMULINK implementations following the design process of example systems are presented in the .mdl files. 
+ - Please refer to 'robustControl_nonlinearSystems_tmina.pdf' for a detailed theoretical overview of the Sliding Mode Controller design process. 
+ - Motivation behind robust control implementation and a summary of the controller design process is presented in the wiki section of this repository.
+ - SIMULINK implementations following the design process of example systems are presented in the .mdl files. 
 
 ## Prerequisites
 Fundamental background of using MATLAB and Simulink will be required to fully understand the implementation example.

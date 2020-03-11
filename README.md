@@ -2,7 +2,7 @@
 In control theory, robust control is an approach to controller design that explicitly deals with uncertainty. Robust control methods are designed to function properly provided that uncertain parameters or disturbances are found within some (typically compact) set. Robust methods aim to achieve robust performance and/or stability in the presence of bounded modelling errors.
 
 ## Repository Objectives
-The material includes an introduction to Sliding Mode Control as a simple approach to robust control - Sliding surface and controller design formulation for a nonlinear system described by an n^{th} order differential equation 
+The material includes an introduction to Sliding Mode Control as a simple approach to robust control - Sliding surface and controller design formulation for a nonlinear system described by an n^{th} order differential equation. 
  - Please refer to 'robustControl_nonlinearSystems_tmina.pdf' for a detailed theoretical overview of the Sliding Mode Controller design process. 
  - Motivation behind robust control implementation and a summary of the controller design process is presented in the wiki section of this repository.
  - SIMULINK implementations following the design process of example systems are presented in the .mdl files. 

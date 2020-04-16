@@ -1,4 +1,9 @@
-# Robust Control
+# Robust Control Tutorial
+Robust control tutorial by Purdue SMART Lab: Sliding Mode Control (SMC) with MATLAB/Simulink example implementation.
+
+The tutorial instructions are also available in the wiki page of this repository: <https://github.com/SMARTlab-Purdue/robust-control-tutorial/wiki>
+
+## Robust Control
 In control theory, robust control is an approach to controller design that explicitly deals with uncertainty. Robust control methods are designed to function properly provided that uncertain parameters or disturbances are found within some (typically compact) set. Robust methods aim to achieve robust performance and/or stability in the presence of bounded modelling errors.
 
 ## Repository Objectives
